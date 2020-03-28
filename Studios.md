@@ -39,6 +39,8 @@ Let's take a look at some of the things you need to know to make your design sta
 
 ### <a name='Balance'></a>Balance
 
+![Balance](https://arturth.com/wp-content/uploads/2019/09/GraphicDesignElements_Balance.jpg)
+
 When it comes to design, you can definitely be creative, but you also have to be balanced.
 Proper balance and alignment are core principles of design. Discover how they work and how to use them in concert with other design elements. Structure the elements of your composition to create a design that communicates well. 
 
@@ -46,11 +48,15 @@ Proper balance and alignment are core principles of design. Discover how they wo
 
 ### <a name='Heirarchy'></a>Heirarchy
 
+![Balance](https://media.gcflearnfree.org/content/583471e6e7b9330e58b9fed1_11_22_2016/layout_hierarchy_eyes.png)
+
 When you have multiple elements in a design, you want to make sure you’re giving extra weight visually to your most important message. This is called hierarchy and it can be accomplished in a variety of ways—larger or bolder fonts, placing your most important message physically higher than other pieces of information, or using shapes to frame the focal point. Utilizing this principle in your design starts with your message first and the goals of your design.
 
 [Here](https://www.youtube.com/watch?v=RlTZ98UXldw) is a good tutorial on why heirarchy is important in designs.
 
 ### <a name='Colors'></a>Colors
+
+![Colours](https://media.gcflearnfree.org/content/57f26593893b731320ed05db_10_03_2016/color_wheel.png)
 
 The color may even be the most important element of a design, because it offers the most powerful visual impact at a single glance. Color is obvious and does not need basic graphic skills to be noticed. The colors you choose for your designs are crucial not only to your overall aesthetic, but to how well your designs connect with your audience (which ultimately drives results).
 
