@@ -11,7 +11,7 @@
     * [Kerning](#Kerning)
     * [Tracking](#Tracking)
     * [Leading](#Leading)
-* 3. [Some Important Tools](#Someimportanttools)
+* 3. [Important Tools](#Someimportanttools)
   * [Pen Tool](#PenTool)
   * [Pathfinder](#Pathfinder)
   * [Clipping Mask](#Clippingmask)
@@ -103,7 +103,7 @@ Leading (rhymes with wedding) is the space between lines of text, also known as 
 
 If you're not sure how much line spacing to use, don't fret—the default is usually fine. The goal is to make your text as comfortable to read as possible. Too much or too little spacing, as in the example below, can make things unpleasant for the reader.
 
-># <a name='Someimportanttools'></a>3. Some Important Tools 
+># <a name='Someimportanttools'></a>3. Important Tools 
 
 ### <a name='PenTool'></a>Pen Tool
 
