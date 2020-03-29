@@ -146,7 +146,7 @@ One such influencer you can follow is Chethan KVS or **The Design Pilot** [here]
 
 ![Designpilot](https://miro.medium.com/max/5600/1*0VqfCOtOcnv3JQl_Xb9rrQ.jpeg)
 
-We at **IECSE** have also done articles to give insight at the our design projects. [Here](https://medium.com/iecse-hashtag/iecse-re-branding-case-study-e5b80825609c 'IECSE Re-branding Case Study') you can see the process of IECSE's logo redesign.
+We at **IECSE** have also done articles to give insight into our design projects. [Here](https://medium.com/iecse-hashtag/iecse-re-branding-case-study-e5b80825609c 'IECSE Re-branding Case Study') you can see the process of IECSE's logo redesign.
 
 #### Try to recreate your favourite works
 Lets be clear: _Under no circumstances should you infringe on anyone's copyrighted work._ Never reproduce someone else's work and try to pass it off as your own.
