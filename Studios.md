@@ -15,6 +15,7 @@
   * [Pen Tool](#PenTool)
   * [Pathfinder](#Pathfinder)
   * [Clipping Mask](#Clippingmask)
+* 4. [Conclusion](#Conclusion)  
 
 >## 1. <a name='intro'></a>Introduction to Graphic Design
 Graphic design focuses on communicating a message visually. Each project a graphic designer works on will have a unique message and a desired result from that message. The message may be to provide information, invoke thought, sell a product or even stimulate meaningful conversation. Graphic design is all around you. It’s about expressing an idea in the best way using visual story telling. This may sound simple, but it requires problem solving, communication, attentiveness, patience, and most importantly a good grasp of the project’s desired result.
@@ -130,3 +131,25 @@ The Pen Tool creates paths and shapes which can be duplicated and manipulated to
  A clipping mask is an object whose shape masks other artwork so that only areas that lie within the shape are visible—in effect, clipping the artwork to the shape of the mask. The clipping mask and the objects that are masked are called a clipping set.
 
  [Learn](https://www.youtube.com/watch?v=PDM8aG62ir0) how to make clipping mask on Illustrator
+
+>## 4. <a name='Conclusion'></a>Conclusion
+These are the basic elements a beginner graphic designer should know about. Having this knowledge will allow you to think more user-focused and design with a better style. However, this is not everything.
+There is much more knowledge to get about all these tools and techniques, but this knowledge comes along with the experience and you can’t really get it only from books, but by practicing.
+
+#### Get Inspiration 
+
+![Dribbble](https://community.envato.com/wp-content/uploads/2016/01/BehancevsDribbble1.png)
+
+Get acquainted with leading designer portfolio sites like Dribbble and Behance. You can follow Designers on Instagram. These platforms showcase an abundance of high-quality work from leading designers across the spectrum -- everyone from web and UX designers, to graphic designers and typographers. The designers on these sites often provide insight into their design processes, which will be key as you start your own creations.
+
+![Designpilot](https://miro.medium.com/max/5600/1*0VqfCOtOcnv3JQl_Xb9rrQ.jpeg)
+
+#### Try to recreate your favourite works
+Lets be clear: Under no circumstances should you infringe on anyone's copyrighted work. Never reproduce someone else's work and try to pass it off as your own.
+
+That said, re-creating a design you like -- without advertising it as your own work -- will help you gain a deeper understanding of design technique. As with dissecting a design, it'll help you learn new technical skills that'll come in handy when you're creating your own designs.
+
+#### Don't be afraid to get feedback
+Show your designs to friends and other designers. On some level, everyone is afraid of criticism. We're afraid our ideas will get shot down and we'll be sent back to square one. Learning to accept constructive criticism is no easy task, but it's key to becoming a better designer.
+
+##### Keep Designing, Keep Learning.
