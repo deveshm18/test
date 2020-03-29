@@ -124,7 +124,7 @@ The Pen Tool creates paths and shapes which can be duplicated and manipulated to
 
  The tool is capable of manipulating shapes and paths that you can use to speed up your workflow. Mastering the tool is important as it lets you create complex shapes very easily.  It makes it easy to combine paths, divide objects, subtract shapes, etc. The pathfinder tool enables you to edit and customize a variety of shapes in a neat and clean way. 
  
- [Learn](https://www.youtube.com/watch?v=VlHhX65X-pE&feature=youtu.be) how to use the pathfinder tool efficiently under 2 minutes!
+ [Learn](https://www.youtube.com/watch?v=VlHhX65X-pE&feature=youtu.be) how to use the pathfinder tool efficiently **in under 2 minutes!**
 
  ### <a name='Clippingmask'></a>Clipping Mask
 
@@ -142,10 +142,14 @@ There is much more knowledge to get about all these tools and techniques, but th
 
 Get acquainted with leading designer portfolio sites like Dribbble and Behance. You can follow Designers on Instagram. These platforms showcase an abundance of high-quality work from leading designers across the spectrum -- everyone from web and UX designers, to graphic designers and typographers. The designers on these sites often provide insight into their design processes, which will be key as you start your own creations.
 
+One such influencer you can follow is Chethan KVS or **The Design Pilot** [here](https://www.chethankvs.design/ 'Design Pilot')
+
 ![Designpilot](https://miro.medium.com/max/5600/1*0VqfCOtOcnv3JQl_Xb9rrQ.jpeg)
 
+We at **IECSE** have also done articles to give insight at the our design projects. [Here](https://medium.com/iecse-hashtag/iecse-re-branding-case-study-e5b80825609c 'IECSE Re-branding Case Study') you can see the process of IECSE's logo redesign.
+
 #### Try to recreate your favourite works
-Lets be clear: Under no circumstances should you infringe on anyone's copyrighted work. Never reproduce someone else's work and try to pass it off as your own.
+Lets be clear: _Under no circumstances should you infringe on anyone's copyrighted work._ Never reproduce someone else's work and try to pass it off as your own.
 
 That said, re-creating a design you like -- without advertising it as your own work -- will help you gain a deeper understanding of design technique. As with dissecting a design, it'll help you learn new technical skills that'll come in handy when you're creating your own designs.
 
