@@ -4,7 +4,7 @@
   * [Vectors](#Vectors)
 * 2. [Basics of design](#Basicsofdesign)
   * [Balance](#Balance)
-  * [Heirarchy](#Heirarchy)
+  * [Hierarchy](#Hierarchy)
   * [Colors](#Colors)
   * [Typography](#Typography)
     * [Types of Fonts](#Typesoffonts)
@@ -47,7 +47,7 @@ Proper balance and alignment are core principles of design. Discover how they wo
 
 [Click Here](https://www.youtube.com/watch?v=bDZ9QMA2Bdc) for an informative video about balance in designs.
 
-### <a name='Heirarchy'></a>Heirarchy
+### <a name='Hierarchy'></a>Hierarchy
 
 ![Balance](https://media.gcflearnfree.org/content/583471e6e7b9330e58b9fed1_11_22_2016/layout_hierarchy_eyes.png)
 
