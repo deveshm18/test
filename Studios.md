@@ -126,7 +126,7 @@ The Pen Tool creates paths and shapes which can be duplicated and manipulated to
  
  [Learn](https://www.youtube.com/watch?v=VlHhX65X-pE&feature=youtu.be) how to use the pathfinder tool efficiently **in under 2 minutes!**
 
- ### <a name='Clippingmask'></a>Clipping Mask
+### <a name='Clippingmask'></a>Clipping Mask
 
  A clipping mask is an object whose shape masks other artwork so that only areas that lie within the shape are visible—in effect, clipping the artwork to the shape of the mask. The clipping mask and the objects that are masked are called a clipping set.
 
