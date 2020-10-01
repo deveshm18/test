@@ -133,7 +133,7 @@ The Pen Tool creates paths and shapes which can be duplicated and manipulated to
  [Learn](https://www.youtube.com/watch?v=PDM8aG62ir0) how to make clipping mask on Illustrator
 
 >## 4. <a name='Conclusion'></a>Conclusion
-These are the basic elements a beginner graphic designer should know about. Having this knowledge will allow you to think more user-focused and design with a better style. However, this is not everything.
+These are the basic elements a beginner graphic designer should know about. Having this knowledge will allow you to think more user-focused and design with a better style. However, this is not everything!
 There is much more knowledge to get about all these tools and techniques, but this knowledge comes along with the experience and you can’t really get it only from books, but by practicing.
 
 #### Get Inspiration 
